@@ -2,7 +2,7 @@
 
 This project demonstrates how to implement **Simple Linear Regression** and **Multiple Linear Regression** **from scratch using only NumPy**, without relying on machine learning libraries such as Scikit-learn.
 
-The project uses the **Advertising** dataset to predict product **Sales** based on advertising budgets. It provides a step-by-step implementation of the **Normal Equation**, enabling a deeper understanding of the mathematical concepts behind linear regression.
+The project uses the [**Advertising**](advertising.csv) dataset to predict product **Sales** based on advertising budgets. It provides a step-by-step implementation of the **Normal Equation**, enabling a deeper understanding of the mathematical concepts behind linear regression.
 
 #### Key features of the project include,
 
