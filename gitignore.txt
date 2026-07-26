@@ -1,0 +1,35 @@
+# =========================
+# VS Code Files
+# =========================
+
+.vscode/
+*.code-workspace
+
+# =========================
+# Python Files
+# =========================
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Python files
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python package build files
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg
+*.egg-info/
