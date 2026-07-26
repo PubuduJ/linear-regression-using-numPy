@@ -18,7 +18,7 @@ The project uses the **Advertising** dataset to predict product **Sales** based 
 
 - Residual analysis to assess prediction errors and model performance.
 
-- Prediction of sales for new advertising budgets using the trained regression models.
+- Prediction of sales for new advertising budgets using the trained simple / multiple regression models.
 
 #### Project Structure
 
@@ -232,6 +232,6 @@ v1.0.0
 
 ## License
 
-Copyright &copy; 2026 [Pubudu Janith](https://www.linkedin.com/in/pubudujanith/). All Rights Reserved.
+Copyright &copy; 2026 [**Pubudu Janith**](https://www.linkedin.com/in/pubudujanith/). All Rights Reserved.
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [**MIT License**.](LICENSE.txt)
