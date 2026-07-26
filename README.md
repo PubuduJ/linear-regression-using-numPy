@@ -115,13 +115,13 @@ Residual plots are generated after training the models to analyse prediction err
 
 <!-- Replace with actual image -->
 
-<img src="assets/simple-residual-plot.png" alt="simple-residual" width="600px"/>
+<img src="assets/simple-residual-plot.png" alt="simple-residual" width="400px"/>
 
 ### Multiple Linear Regression Residual Plot
 
 <!-- Replace with actual image -->
 
-<img src="assets/multiple-residual-plot.png" alt="multiple-residual" width="600px"/>
+<img src="assets/multiple-residual-plot.png" alt="multiple-residual" width="400px"/>
 
 ---
 
