@@ -25,10 +25,14 @@ The project uses the [**Advertising**](advertising.csv) dataset to predict produ
 ```
 linear-regression-using-numpy/
 │
-├── simple linear regression using numpy.ipynb
-├── multiple linear regression using numpy.ipynb
+├── 1. simple linear regression using numpy.ipynb
+├── 2. multiple linear regression using numpy.ipynb
+├── LICENSE.txt
+├── requirements.txt
+├── gitignore.txt
 ├── advertising.csv
 ├── assets/
+│   ├── logo.png
 │   ├── pairplot.png
 │   ├── simple-residual-plot.png
 │   └── multiple-residual-plot.png
