@@ -178,7 +178,7 @@ Predicted Sales = 19.7779
 
 #### Used Integrated Development Environment
 
-- IntelliJ IDEA
+- VS Code
 
 ---
 
